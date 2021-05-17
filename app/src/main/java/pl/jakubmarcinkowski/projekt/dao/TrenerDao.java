@@ -1,4 +1,4 @@
-package main.java.pl.jakubmarcinkowski.projekt.dao;
+package pl.jakubmarcinkowski.projekt.dao;
 
 import pl.jakubmarcinkowski.projekt.domain.Trener;
 

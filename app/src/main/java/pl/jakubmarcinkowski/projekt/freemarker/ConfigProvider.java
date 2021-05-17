@@ -1,4 +1,4 @@
-package main.java.pl.jakubmarcinkowski.projekt.freemarker;
+package pl.jakubmarcinkowski.projekt.freemarker;
 
 import freemarker.template.Configuration;
 import freemarker.template.TemplateExceptionHandler;

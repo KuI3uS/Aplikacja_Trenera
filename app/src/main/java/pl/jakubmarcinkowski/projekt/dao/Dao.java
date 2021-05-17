@@ -1,4 +1,4 @@
-package main.java.pl.jakubmarcinkowski.projekt.dao;
+package pl.jakubmarcinkowski.projekt.dao;
 
 import javax.ejb.Local;
 import java.util.List;

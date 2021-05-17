@@ -1,4 +1,4 @@
-package main.java.pl.jakubmarcinkowski.projekt.servlet;
+package pl.jakubmarcinkowski.projekt.servlet;
 
 import pl.jakubmarcinkowski.projekt.dao.Dao;
 import pl.jakubmarcinkowski.projekt.dao.TrenerDao;

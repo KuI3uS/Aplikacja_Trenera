@@ -1,4 +1,4 @@
-package main.java.pl.jakubmarcinkowski.projekt.client;
+package pl.jakubmarcinkowski.projekt.client;
 
 import javax.ws.rs.client.*;
 import javax.ws.rs.core.GenericType;

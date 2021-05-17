@@ -1,4 +1,4 @@
-package main.java.pl.jakubmarcinkowski.projekt.servlet;
+package pl.jakubmarcinkowski.projekt.servlet;
 
 import freemarker.template.Template;
 import freemarker.template.TemplateException;

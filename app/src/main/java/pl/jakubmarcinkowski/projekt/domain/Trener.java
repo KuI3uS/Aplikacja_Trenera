@@ -1,4 +1,4 @@
-package main.java.pl.jakubmarcinkowski.projekt.domain;
+package pl.jakubmarcinkowski.projekt.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

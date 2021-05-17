@@ -1,4 +1,4 @@
-package main.java.pl.jakubmarcinkowski.projekt.client;
+package pl.jakubmarcinkowski.projekt.client;
 
 import javax.xml.bind.annotation.XmlRootElement;
 import java.time.LocalDateTime;
