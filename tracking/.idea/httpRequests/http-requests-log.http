@@ -1,0 +1,74 @@
+GET http://localhost:8081/tracking/logs
+
+<> 2020-09-06T065213.201.json
+
+###
+
+GET http://localhost/tracking/logs
+
+###
+
+GET http://localhost/tracking/logs
+
+###
+
+GET http://localhost/tracking/logs
+
+###
+
+GET http://localhost/tracking/listEvent
+
+###
+
+GET http://tacking:8081
+
+###
+
+GET http://tacking:8081/tracking/logs
+
+###
+
+GET http://tacking:8081
+
+###
+
+GET http://tacking:8081/logs
+
+###
+
+GET http://localhost:8080/projekt/trenerzy
+
+<> 2020-09-06T054127.200.txt
+
+###
+
+POST http://localhost:8081/tracking/event
+
+###
+
+POST http://localhost:8080/tracking/event
+
+<> 2020-09-06T054034.404.html
+
+###
+
+POST http://tracking/tracking/event
+
+###
+
+GET http://localhost:8081/tracking/logs
+
+<> 2020-09-06T053919.201.json
+
+###
+
+GET http://localhost:8080
+
+<> 2020-09-06T053835.200.html
+
+###
+
+GET http://localhost/tracking/logs
+
+###
+

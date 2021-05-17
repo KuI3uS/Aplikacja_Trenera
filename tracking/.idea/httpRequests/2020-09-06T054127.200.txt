@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <meta charset="UTF-8">
+    <title>Lista trenerów</title>
+</head>
+<body>
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+<a href="/projekt/dodajTrenera" >dodaj</a>
+<table class="table table-dark">
+    <thead>
+    <tr>
+        <th scope="col">imie</th>
+        <th scope="col">nazwisko</th>
+        <th scope="col">email</th>
+        <th scope="col">telefon</th>
+        <th scope="col">operacje</th>
+    </tr>
+    </thead>
+    <tbody>
+            <tr class="trener">
+                <td scope="row">Marian</td>
+                <td scope="row">Nowak</td>
+                <td scope="row">kuba.marcinkowski98@wp.pl</td>
+                <td scope="row">22342342</td>
+                <td scope="col">
+                    <a href="/projekt/trenerzy/usun?id=1">usu?</a>
+                    <a href="/projekt/trenerzy/edytuj?id=1">edytuj</a>
+                </td>
+            </tr>
+            <tr class="trener">
+                <td scope="row">Marian</td>
+                <td scope="row">Nowak</td>
+                <td scope="row">marian.abc@wp.pl</td>
+                <td scope="row">22342342</td>
+                <td scope="col">
+                    <a href="/projekt/trenerzy/usun?id=2">usu?</a>
+                    <a href="/projekt/trenerzy/edytuj?id=2">edytuj</a>
+                </td>
+            </tr>
+            <tr class="trener">
+                <td scope="row">Marian</td>
+                <td scope="row">Nowak</td>
+                <td scope="row">jakub.nowak@wp.pl</td>
+                <td scope="row">22342342</td>
+                <td scope="col">
+                    <a href="/projekt/trenerzy/usun?id=3">usu?</a>
+                    <a href="/projekt/trenerzy/edytuj?id=3">edytuj</a>
+                </td>
+            </tr>
+            <tr class="trener">
+                <td scope="row">pupppka</td>
+                <td scope="row">jaskdflasfdkl</td>
+                <td scope="row">aksldjfa@wp.pl</td>
+                <td scope="row">00653232323</td>
+                <td scope="col">
+                    <a href="/projekt/trenerzy/usun?id=5">usu?</a>
+                    <a href="/projekt/trenerzy/edytuj?id=5">edytuj</a>
+                </td>
+            </tr>
+    </tbody>
+</table>
+
+
+<script>
+
+</script>
+</body>
+</html>

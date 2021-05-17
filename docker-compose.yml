@@ -1,0 +1,39 @@
+version: '2'
+
+services:
+  mysql:
+    image: mysql:8.0.18
+    environment:
+      - MYSQL_DATABASE=projekt-db
+      - MYSQL_USER=user
+      - MYSQL_PASSWORD=zaq123
+      - MYSQL_ROOT_PASSWORD=zaq123
+    ports:
+      - 3306:3306
+    volumes:
+      - ./mysql1:/var/lib/mysql
+
+  tracking:
+    build:
+      context: ./tracking/
+    ports:
+      - 8081:8080
+      - 9991:9990
+    depends_on:
+      - mysql
+    links:
+      - mysql
+    dns: 0.0.0.0
+
+  projekt:
+    build:
+      context: ./app/
+    ports:
+      - 8080:8080
+      - 9990:9990
+    depends_on:
+      - mysql
+      - tracking
+    links:
+      - mysql
+    dns: 0.0.0.0

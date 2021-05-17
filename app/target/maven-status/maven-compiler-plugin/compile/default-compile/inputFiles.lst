@@ -1,0 +1,15 @@
+/home/jakub/Pulpit/pjatk/Aplikacja_Trenera/app/src/main/java/pl/jakubmarcinkowski/projekt/servlet/TrenerService.java
+/home/jakub/Pulpit/pjatk/Aplikacja_Trenera/app/src/main/java/pl/jakubmarcinkowski/projekt/servlet/LogiServlet.java
+/home/jakub/Pulpit/pjatk/Aplikacja_Trenera/app/src/main/java/pl/jakubmarcinkowski/projekt/client/TrackingClient.java
+/home/jakub/Pulpit/pjatk/Aplikacja_Trenera/app/src/main/java/pl/jakubmarcinkowski/projekt/servlet/TrenerUsunServlet.java
+/home/jakub/Pulpit/pjatk/Aplikacja_Trenera/app/src/main/java/pl/jakubmarcinkowski/projekt/dao/Dao.java
+/home/jakub/Pulpit/pjatk/Aplikacja_Trenera/app/src/main/java/pl/jakubmarcinkowski/projekt/client/Event.java
+/home/jakub/Pulpit/pjatk/Aplikacja_Trenera/app/src/main/java/pl/jakubmarcinkowski/projekt/freemarker/ConfigProvider.java
+/home/jakub/Pulpit/pjatk/Aplikacja_Trenera/app/src/main/java/pl/jakubmarcinkowski/projekt/servlet/TrenerServlet.java
+/home/jakub/Pulpit/pjatk/Aplikacja_Trenera/app/src/main/java/pl/jakubmarcinkowski/projekt/freemarker/TemplateProvider.java
+/home/jakub/Pulpit/pjatk/Aplikacja_Trenera/app/src/main/java/pl/jakubmarcinkowski/projekt/servlet/TrenerEdytujServlet.java
+/home/jakub/Pulpit/pjatk/Aplikacja_Trenera/app/src/main/java/pl/jakubmarcinkowski/projekt/client/ServiceInterface.java
+/home/jakub/Pulpit/pjatk/Aplikacja_Trenera/app/src/main/java/pl/jakubmarcinkowski/projekt/dao/TrenerDao.java
+/home/jakub/Pulpit/pjatk/Aplikacja_Trenera/app/src/main/java/pl/jakubmarcinkowski/projekt/domain/Trener.java
+/home/jakub/Pulpit/pjatk/Aplikacja_Trenera/app/src/main/java/pl/jakubmarcinkowski/projekt/client/EventType.java
+/home/jakub/Pulpit/pjatk/Aplikacja_Trenera/app/src/main/java/pl/jakubmarcinkowski/projekt/servlet/DodajTreneraServlet.java
